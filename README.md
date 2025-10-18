@@ -1,5 +1,11 @@
 ## Welcome to my page!
+currently:
+-  curriculum @ computer science @ codédex
+-  Univerzita Konštantína Filozofa @ Nitra
+-  I’m currently working on ... nothing
+-  Pronouns: He/Him
 
+  Learning Python like a champ 
 <!--
 **samocs/samocs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

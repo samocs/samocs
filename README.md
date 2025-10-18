@@ -1,4 +1,4 @@
-## Welcome to my page! `print('Welcome!')`
+## Welcome to my page!
 
 <!--
 **samocs/samocs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

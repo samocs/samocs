@@ -7,7 +7,7 @@ currently:
 
   Learning Python like a champ 
 
-  ![Currently listening to](https://lastfm-profile-readme.vercel.app/api/samiqq)
+  ![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=samiqq&count=1)
 <!--
 **samocs/samocs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

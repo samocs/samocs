@@ -1,5 +1,5 @@
 ```plaintext
- ████���█  ▄▄▄       ███▄ ▄███▓ ▒█████     
+ ███████  ▄▄▄       ███▄ ▄███▓ ▒█████     
 ▒██    ▒ ▒████▄    ▓██▒▀█▀ ██▒▒██▒  ██▒    Univerzita Konštantína Filozofa @ Nitra
 ░ ▓██▄   ▒██  ▀█▄  ▓██    ▓██░▒██░  ██▒    I’m currently working on ... nothing
   ▒   ██▒░██▄▄▄▄██ ▒██    ▒██ ▒██   ██░    Pronouns: He/Him
@@ -7,7 +7,7 @@
 ▒ ▒▓▒ ▒ ░ ▒▒   ▓▒█░░ ▒░   ░  ░░ ▒░▒░▒░ 
 ░ ░▒  ░ ░  ▒   ▒▒ ░░  ░      ░  ░ ▒ ▒░ 
 ░  ░  ░    ░   ▒   ░      ░   ░ ░ ░ ▒  
-      ░        ░  ░       ░       ░ ░  
+      ░        ░  ░       ░       ░ ░              
 ```
 
   Learning Python like a champ 
